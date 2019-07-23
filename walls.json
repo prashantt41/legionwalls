@@ -1,1 +1,321 @@
-#empty
+{
+  "Collections": [
+    {
+      "name": "Legion Walls",
+      "preview_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_02.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_02.png"
+    },
+    {
+      "name": "Abstracts",
+      "preview_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/abstract_02.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/abstract_02.png"
+    },
+    {
+      "name": "Animes",
+      "preview_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/Cortezz0/anime_cortezz02.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/Cortezz0/anime_cortezz02.png"
+    },
+    {
+      "name": "Cityscapes",
+      "preview_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cityscape_01.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cityscape_01.png"
+    },
+    {
+      "name": "Cosmos",
+      "preview_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cosmos_02.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cosmos_02.png"
+    },
+    {
+      "name": "Landscapes",
+      "preview_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/landscape_01.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/landscape_01.png"
+    },
+    {
+      "name": "Material",
+      "preview_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_04.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_04.png"
+    },
+    {
+      "name": "Minimal",
+      "preview_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/minimal_03.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/minimal_03.png"
+    },
+    {
+      "name": "Nature",
+      "preview_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/nature_03.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/nature_03.png"
+    },
+    {
+      "name": "Others",
+      "preview_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_04.png",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_04.png"
+    },
+  "Wallpapers":[
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/abstract_01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/abstract_01.png",
+         "name":"abstract_01",
+         "category":"Abstracts"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/abstract_02.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/abstract_02.png",
+         "name":"abstract_02",
+         "category":"Abstracts"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/abstract_03.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/abstract_03.png",
+         "name":"abstract_03",
+         "category":"Abstracts"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/abstract_04.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/abstract_04.png",
+         "name":"abstract_04",
+         "category":"Abstracts"
+      },
+      {
+         "author":"Cortezz0",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/Cortezz0/anime_cortezz01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/Cortezz0/anime_cortezz01.png",
+         "name":"anime_cortezz01",
+         "category":"Animes"
+      },
+      {
+         "author":"Cortezz0",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/Cortezz0/anime_cortezz02.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/Cortezz0/anime_cortezz02.png",
+         "name":"anime_cortezz02",
+         "category":"Animes"
+      },
+      {
+         "author":"Cortezz0",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/Cortezz0/anime_cortezz03.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/Cortezz0/anime_cortezz03.png",
+         "name":"anime_cortezz03",
+         "category":"Animes"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cityscape_01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cityscape_01.png",
+         "name":"cityscape_01",
+         "category":"Cityscapes"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cosmos_01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cosmos_01.png",
+         "name":"cosmos_01",
+         "category":"Cosmos"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cosmos_02.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cosmos_02.png",
+         "name":"cosmos_02",
+         "category":"Cosmos"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cosmos_03.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/cosmos_03.png",
+         "name":"cosmos_03",
+         "category":"Cosmos"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/landscape_01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/landscape_01.png",
+         "name":"landscape_01",
+         "category":"Landscapes"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_01.png",
+         "name":"legion_01",
+         "category":"Legion Walls"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_02.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_02.png",
+         "name":"legion_02",
+         "category":"Legion Walls"
+      },
+      {
+         "author":"Shree Hari",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_03.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_03.png",
+         "name":"legion_03",
+         "category":"Legion Walls"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_04.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_04.png",
+         "name":"legion_04",
+         "category":"Legion Walls"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_05.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/legion_05.png",
+         "name":"legion_05",
+         "category":"Legion Walls"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_01.png",
+         "name":"material_01",
+         "category":"Material"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_02.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_02.png",
+         "name":"material_02",
+         "category":"Material"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_03.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_03.png",
+         "name":"material_03",
+         "category":"Material"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_04.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_04.png",
+         "name":"material_04",
+         "category":"Material"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_05.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_05.png",
+         "name":"material_05",
+         "category":"Material"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_06.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/material_06.png",
+         "name":"material_06",
+         "category":"Material"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/minimal_01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/minimal_01.png",
+         "name":"minimal_01",
+         "category":"Minimal"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/minimal_02.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/minimal_02.png",
+         "name":"minimal_02",
+         "category":"Minimal"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/minimal_03.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/minimal_03.png",
+         "name":"minimal_03",
+         "category":"Minimal"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/minimal_04.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/minimal_04.png",
+         "name":"minimal_04",
+         "category":"Minimal"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/nature_01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/nature_01.png",
+         "name":"nature_01",
+         "category":"Nature"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/nature_02.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/nature_02.png",
+         "name":"nature_02",
+         "category":"Nature"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/nature_03.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/nature_03.png",
+         "name":"nature_03",
+         "category":"Nature"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_01.png",
+         "name":"others_01",
+         "category":"Others"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_02.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_02.png",
+         "name":"others_02",
+         "category":"Others"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_03.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_03.png",
+         "name":"others_03",
+         "category":"Others"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_04.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_04.png",
+         "name":"others_04",
+         "category":"Others"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_05.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_05.png",
+         "name":"others_05",
+         "category":"Others"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_06.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_06.png",
+         "name":"others_06",
+         "category":"Others"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_07.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_07.png",
+         "name":"others_07",
+         "category":"Others"
+      },
+      {
+         "author":"Prashant",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_08.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/walls/prashant/others_08.png",
+         "name":"others_08",
+         "category":"Others"
+      }
+  ]
+}
