@@ -81,6 +81,13 @@
          "category":"Abstracts"
       },
       {
+         "author":"anonhacker",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhacker/abstracts_anonhacker01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhacker/abstract_01.png",
+         "name":"abstract_01",
+         "category":"Abstracts"
+      },
+      {
          "author":"Cortezz0",
          "url":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/Cortezz0/anime_cortezz01.png",
          "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/prashant/Cortezz0/anime_cortezz01.png",
@@ -319,6 +326,13 @@
          "category":"Material"
       },
       {
+         "author":"anonhacker",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhackeer/material_anonhacker01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/prashant/material_anonhacker01.png",
+         "name":"material_anonhacker01.png",
+         "category":"Material"
+      },
+      {
          "author":"Prashant",
          "url":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/prashant/minimal_01.png",
          "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/prashant/minimal_01.png",
@@ -344,6 +358,13 @@
          "url":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/prashant/minimal_04.png",
          "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/prashant/minimal_04.png",
          "name":"minimal_04",
+         "category":"Minimal"
+      },
+      {
+         "author":"anonhacker",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhacker/minimal_anonhacker01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhacker/minimal_anonhacker01.png",
+         "name":"minimal_anonhacker01",
          "category":"Minimal"
       },
       {
@@ -374,6 +395,20 @@
          "name":"nature_cortezz01",
          "category":"Nature"
       },
+      {
+         "author":"anonhacker",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhacker/nature_anonhacker01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhacker/nature_anonhacker01.png",
+         "name":"nature_anonhacker01",
+         "category":"Nature"
+      },
+      {
+         "author":"anonhacker",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhacker/nature_anonhacker02.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhacker/nature_anonhacker02.png",
+         "name":"nature_anonhacker02",
+         "category":"Nature"
+      },	  
       {
          "author":"Prashant",
          "url":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/prashant/others_01.png",
@@ -430,5 +465,13 @@
          "name":"others_08",
          "category":"Others"
       }
+      {
+         "author":"anonhacker",
+         "url":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhacker/others_anonhacker01.png",
+         "thumbUrl":"https://raw.githubusercontent.com/legionRom/legionwalls/master/walls/anonhacker/others_anonhacker01.png",
+         "name":"others_anonhacker01",
+         "category":"Others"
+      }
   ]
 }
+
